@@ -1,4 +1,4 @@
 KP-Rencana-kontent
--Forum Git
--Streaming Coursed
+-Git Forum
+-Streaming Coursed on Youtube
 -Creating Android App
