@@ -1,0 +1,4 @@
+-saya akan mengupload source code android
+-saya akan membuat aplikasi android sesuai dengan program KP android
+-saya akan bekerja secara tim dan menaruh source code di github ini
+-aplikasi yang saya buat berjudul "Absensi Geolokasi"
